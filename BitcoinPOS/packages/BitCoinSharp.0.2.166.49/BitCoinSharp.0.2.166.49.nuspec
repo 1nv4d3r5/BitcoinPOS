@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>BitCoinSharp</id>
+    <version>0.2.166.49</version>
+    <title>BitCoinSharp</title>
+    <authors>Nathan Baulch</authors>
+    <owners>Nathan Baulch</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.txt</licenseUrl>
+    <projectUrl>http://bitcoinsharp.googlecode.com/</projectUrl>
+    <iconUrl>http://bitcoinsharp.googlecode.com/svn/doc/Logo120.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>BitCoinSharp is a direct port of the excellent BitCoinJ library. It implements the native BitCoin P2P protocol in C# for use in .net 3.5 and above. This library can be used to maintain a wallet and send/receive transactions without installing the official client. It comes with full documentation and includes an example application that demonstrates some of the more common uses.</description>
+    <summary>A C# implementation of a BitCoin client-only node</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>BitCoin P2P</tags>
+    <dependencies>
+      <dependency id="BouncyCastle" version="1.7.0" />
+      <dependency id="log4net" version="1.2.10" />
+    </dependencies>
+    <references>
+      <reference file="BitCoinSharp.dll" />
+    </references>
+  </metadata>
+</package>

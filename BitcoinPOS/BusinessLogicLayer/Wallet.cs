@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace BusinessLogicLayer
+{
+    public class Wallet
+    {
+        public ulong GetBalance()
+        {
+            var bit = new Bitcoin.Wallet();
+            return bit.GetBalance();
+        }
+    }
+}
