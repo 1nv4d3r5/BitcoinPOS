@@ -140,5 +140,50 @@ namespace BitcoinPOS
         {
             UpdateBalance();
         }
+
+        private void transactionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmNewTransaction());
+        }
+
+        private void customerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmNewCustomer());
+        }
+
+        private void addressToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmNewAddress());
+        }
+
+        private void productToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmNewProduct());
+        }
+
+        private void transactionToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmOpenTransaction());
+        }
+
+        private void customerToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmOpenCustomer());
+        }
+
+        private void productToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmOpenAddress());
+        }
+
+        private void productToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmOpenProduct());
+        }
+
+        private void optionsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LaunchChild(new frmOptions());
+        }
     }
 }

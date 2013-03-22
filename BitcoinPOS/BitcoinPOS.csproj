@@ -65,6 +65,60 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmNewAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewAddress.Designer.cs">
+      <DependentUpon>frmNewAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewCustomer.Designer.cs">
+      <DependentUpon>frmNewCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewProduct.Designer.cs">
+      <DependentUpon>frmNewProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewTransaction.Designer.cs">
+      <DependentUpon>frmNewTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOpenAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOpenAddress.Designer.cs">
+      <DependentUpon>frmOpenAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOpenCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOpenCustomer.Designer.cs">
+      <DependentUpon>frmOpenCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOpenProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOpenProduct.Designer.cs">
+      <DependentUpon>frmOpenProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOpenTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOpenTransaction.Designer.cs">
+      <DependentUpon>frmOpenTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions.Designer.cs">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </Compile>
     <Compile Include="Helpers.cs" />
     <Compile Include="MDIParent.cs">
       <SubType>Form</SubType>
