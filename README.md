@@ -54,3 +54,5 @@ Bitcoin: [14hSGGYXa85UbjryvkdMFKwJe3McFi6Ww9](http://bitcoin:14hSGGYXa85Ubjryvkd
 
 Thanks to everyone who sent me ![balance][balance].
 [balance]:http://bitcoinbox.ru/display/graph.php?btcaddress=14hSGGYXa85UbjryvkdMFKwJe3McFi6Ww9
+
+[![Build Status](https://travis-ci.org/PartTimeLegend/BitcoinPOS.png?branch=master)](https://travis-ci.org/PartTimeLegend/BitcoinPOS)
