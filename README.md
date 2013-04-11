@@ -56,3 +56,5 @@ Thanks to everyone who sent me ![balance][balance].
 [balance]:http://bitcoinbox.ru/display/graph.php?btcaddress=14hSGGYXa85UbjryvkdMFKwJe3McFi6Ww9
 
 [![Build Status](https://travis-ci.org/PartTimeLegend/BitcoinPOS.png?branch=master)](https://travis-ci.org/PartTimeLegend/BitcoinPOS)
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/BitcoinPOS&title=Bitcoin POS&language=&tags=github&category=software) 
